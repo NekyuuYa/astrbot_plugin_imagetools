@@ -1,0 +1,5 @@
+name: astrbot_plugin_imagetools
+display_name: 图像处理工具箱
+desc: 提供图像缩放、转换、滤镜等处理功能的插件。
+version: 0.1.0
+author: Nekyuu

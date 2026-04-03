@@ -1,0 +1,9 @@
+[submodule "astrbot_plugin_astroassist"]
+	path = astrbot_plugin_astroassist
+	url = git@github.com:NekyuuYa/astrbot_plugin_astroassist.git
+[submodule "astrbot_plugin_llm_log_hook"]
+	path = astrbot_plugin_llm_log_hook
+	url = git@github.com:NekyuuYa/astrbot_plugin_llm_log_hook.git
+[submodule "astrbot_plugin_qcard_parser"]
+	path = astrbot_plugin_qcard_parser
+	url = https://github.com/NekyuuYa/astrbot_plugin_qcard_parser.git
